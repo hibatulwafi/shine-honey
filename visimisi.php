@@ -26,72 +26,73 @@
 
   <section class="ftco-section">
     <div class="container">
+      <div class="row justify-content-center mb-5">
+        <div class="col-md-8 text-center">
+          <h2 class="mb-3">Visi Shine Factory Indonesia</h2>
+          <p class="text-muted">Visi Perusahaan Pertanian Shine Factory</p>
+        </div>
+      </div>
+
       <div class="row">
-        <div class="col-md-12 heading-section text-center ftco-animate mb-3">
-          <h2 class="mb-4">Visi Shine Factory Indonesia</h2>
-          <p class="text-muted text-center" style="line-height: 2;">
-            Visi Perusahaan Pertanian Shine Factory
-          </p>
+        <!-- Item -->
+        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-4">
+          <div class="card text-center shadow-sm p-4 w-100">
+            <div class="icon mb-3">
+              <img src="images/ico-1.png" class="img-fluid w-50" alt="icon">
+            </div>
+            <h5 class="mb-3">Kepuasan Pelanggan</h5>
+            <p class="text-muted">
+              Memprioritaskan pelanggan, berorientasi pada pelanggan, demi kepuasan pelanggan.
+            </p>
+          </div>
         </div>
 
-        <div class="col-md-6 col-lg-6 text-center">
-          <img class="img-fluid rounded w-50 mb-3" src="images/ico-1.png">
-          <br />
-          <img class="img-fluid rounded mt-3 mb-3" src="images/block.png">
-
-          <h5 class="mb-3">Kepuasan Pelanggan</h5>
-
-          <p style="line-height: 1;">Memprioritaskan Pelanggan</p>
-          <p style="line-height: 1;">Berorientasi Pada Pelanggan</p>
-          <p style="line-height: 1;">Demi Kepuasan Pelanggan</p>
-
+        <!-- Item -->
+        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-4">
+          <div class="card text-center shadow-sm p-4 w-100">
+            <div class="icon mb-3">
+              <img src="images/ico-2.png" class="img-fluid w-50" alt="icon">
+            </div>
+            <h5 class="mb-3">Penelitian, Pengembangan, dan Investasi</h5>
+            <p class="text-muted">
+              Berdasarkan teknologi profesional. Produksi melalui kontrol kualitas yang ketat.
+            </p>
+          </div>
         </div>
 
-        <div class="col-md-6 col-lg-6 text-center">
-          <img class="img-fluid rounded w-50 mb-3" src="images/ico-2.png">
-          <br />
-          <img class="img-fluid rounded mt-3 mb-3" src="images/block.png">
-
-          <h5 class="mb-3">Penelitian, Pengembangan, dan Investasi</h5>
-
-          <p style="line-height: 1;">Berdasarkan teknologi profesional</p>
-          <p style="line-height: 1;">Produksi melalui kontrol kualitas yang ketat</p>
-
+        <!-- Item -->
+        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-4">
+          <div class="card text-center shadow-sm p-4 w-100">
+            <div class="icon mb-3">
+              <img src="images/ico-3.png" class="img-fluid w-50" alt="icon">
+            </div>
+            <h5 class="mb-3">Diversifikasi Bisnis yang Berkelanjutan</h5>
+            <p class="text-muted">
+              Melalui inovasi kualitas dan peningkatan kapasitas produksi. Kontribusi terhadap pengembangan industri.
+            </p>
+          </div>
         </div>
 
-        <div class="col-md-6 col-lg-6 text-center">
-          <img class="img-fluid rounded w-50 mb-3" src="images/ico-3.png">
-          <br />
-          <img class="img-fluid rounded mt-3 mb-3" src="images/block.png">
-
-          <h5 class="mb-3">Diversifikasi bisnis yang berkelanjutan</h5>
-
-          <p style="line-height: 1;">Melalui inovasi kualitas dan peningkatan kapasitas produksi</p>
-          <p style="line-height: 1;">Kontribusi terhadap pengembangan industry</p>
-
+        <!-- Item -->
+        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-4">
+          <div class="card text-center shadow-sm p-4 w-100">
+            <div class="icon mb-3">
+              <img src="images/ico-4.png" class="img-fluid w-50" alt="icon">
+            </div>
+            <h5 class="mb-3">Manajemen Skill</h5>
+            <p class="text-muted">
+              Profesional yang hangat, profesional yang hebat. Pekerja profesional yang berkualitas dan detail.
+            </p>
+          </div>
         </div>
-
-        <div class="col-md-6 col-lg-6 text-center">
-          <img class="img-fluid rounded w-50 mb-3" src="images/ico-4.png">
-          <br />
-          <img class="img-fluid rounded mt-3 mb-3" src="images/block.png">
-
-          <h5 class="mb-3">Menejemen Skill</h5>
-
-          <p style="line-height: 1;">Profesional yang hangat, profesional yang hebat</p>
-          <p style="line-height: 1;">(Pekerja Profesional yang berkualitas dan detil) </p>
-
-        </div>
-
-
-
       </div>
     </div>
   </section>
 
+
   <?php
   include_once 'partial/footer.php';
-	include_once 'partial/script.php';
+  include_once 'partial/script.php';
   ?>
 
 

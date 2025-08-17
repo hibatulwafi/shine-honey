@@ -11605,7 +11605,7 @@ h5,
 
 .ftco-navbar-light .navbar-brand:hover,
 .ftco-navbar-light .navbar-brand:focus {
-  color: #000000;
+  color: #6d9634;
 }
 
 @media (max-width: 991.98px) {
@@ -11900,6 +11900,13 @@ h5,
 .hero-wrap.hero-bread {
   padding: 10em 0;
 }
+
+@media (max-width: 767.98px) {
+  .hero-wrap.hero-bread {
+    padding: 3em 0;
+  }
+}
+
 
 .mouse {
   position: absolute;
@@ -13642,8 +13649,8 @@ textarea.form-control {
 }
 
 .owl-carousel.owl-drag .owl-item {
-	-ms-touch-action: pan-y;
-	touch-action: pan-y;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
 }
 
 .testimony-wrap {
@@ -14433,16 +14440,18 @@ textarea.form-control {
 
 .card.bg-transparents {
   background-color: transparent;
-  border: solid #ccc 1px ;
-  color:#fff;
+  border: solid #ccc 1px;
+  color: #fff;
   /* Menghapus border bawaan kartu */
   transition: background-color 0.3s;
 }
+
 .card.bg-transparents .card-title {
   color: #fff;
 }
 
 .card.bg-transparents:hover {
-  background-color: rgba(0, 0, 0, 0.3); /* Ganti nilai alpha sesuai preferensi Anda */
+  background-color: rgba(0, 0, 0, 0.3);
+  /* Ganti nilai alpha sesuai preferensi Anda */
   /* Warna latar belakang semi-transparan saat hover */
 }
